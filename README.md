@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Trần Tuấn Anh>, MSSV <225546>.
+Đây là README từ nhánh conflict-demo.
